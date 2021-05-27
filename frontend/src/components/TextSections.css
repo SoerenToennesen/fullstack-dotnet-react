@@ -1,0 +1,50 @@
+@font-face{
+    font-family: "MoskBold";
+    src: url("../assets/fonts/mosk/Mosk\ Bold\ 700.ttf") format("truetype");
+}
+@font-face{
+    font-family: "MoskSemiBold";
+    src: url("../assets/fonts/mosk/Mosk\ Semi-Bold\ 600.ttf") format("truetype");
+}
+@font-face{
+    font-family: "MoskMedium";
+    src: url("../assets/fonts/mosk/Mosk\ Medium\ 500.ttf") format("truetype");
+}
+@font-face{
+    font-family: "MoskLight";
+    src: url("../assets/fonts/mosk/Mosk\ Light\ 300.ttf") format("truetype");
+}
+@font-face{
+    font-family: "MoskExtraLight";
+    src: url("../assets/fonts/mosk/Mosk\ Extra-Light\ 200.ttf") format("truetype");
+}
+
+
+
+.title-container > h1 {
+    font-family: 'MoskSemiBold';
+    color: black;
+    font-size: 70px;
+    margin-left: 0px;
+    margin-top: 10px;
+    letter-spacing: 10px;
+}
+
+.title-container > h2 {
+    font-family: 'MoskLight';
+    color: black;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    letter-spacing: 5px;
+}
+
+.title-container > h3 {
+    font-family: 'MoskExtraLight';
+    color: black;
+    font-size: 20px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    letter-spacing: 0px;
+}

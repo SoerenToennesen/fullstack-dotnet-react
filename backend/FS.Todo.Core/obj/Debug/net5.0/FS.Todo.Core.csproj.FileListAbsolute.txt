@@ -1,0 +1,15 @@
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\FS.Todo.Core.deps.json
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\FS.Todo.Core.dll
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\ref\FS.Todo.Core.dll
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\FS.Todo.Core.pdb
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\FS.Todo.Data.dll
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\bin\Debug\net5.0\FS.Todo.Data.pdb
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.csprojAssemblyReference.cache
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.AssemblyInfoInputs.cache
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.AssemblyInfo.cs
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.csproj.CopyComplete
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.dll
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\ref\FS.Todo.Core.dll
+C:\Users\bruger\source\repos\Fullstack-dotnet-react\backend\FS.Todo.Core\obj\Debug\net5.0\FS.Todo.Core.pdb
